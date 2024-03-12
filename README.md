@@ -14,3 +14,5 @@ Este é um aplicativo de lista de tarefas **(to-do list)** simples, construído 
 
  ### Contribuição:
 Este projeto é de código aberto e está aberto a contribuições. Sinta-se à vontade para fazer sugestões, relatar problemas ou enviar solicitações de pull requests.
+
+**Este projeto é licenciado sob a MIT License.**
